@@ -1,0 +1,27 @@
+.kutucuk1{
+
+    background-color: rgb(13, 13, 165);
+    outline-style: solid;
+    width: 160px;
+    height: 50px;
+   
+     }
+.kutucuk2{
+
+    background-color: rgb(54, 129, 4);
+    outline-style: solid;
+    position: relative;
+    margin-left: auto;
+    width: 150px;
+    height: 50px;
+}
+
+.kutucuk3{
+
+    background-color: rgb(121, 5, 5);
+    outline-style: solid;
+    position: relative;
+    margin-left: auto;
+    width: 150px;
+    height: 50px;
+}
